@@ -5,9 +5,10 @@
 
 body {
     color: black;
+    height: 100vh;
     display: flex;
     justify-content: center;
-    margin-top: 75px;
+    align-items: center;
     background-image: url("Background.jpg");
     background-size: cover;
 }
